@@ -11,6 +11,11 @@ In the class we will try to accomplish these goals:
 - modify an existing future
 - Add a completely new future
 
+Second phase goals:
+- Learn about version control
+- learn about GIT and github
+- commit, branch, pull, merge, fork
+
 Original Message:
 Developed by Dimitar Terziev and Stanimir Bogdanov
 at the HackTogether hackathon at Betahaus organized by Strypes (November 3-4, 2015)
