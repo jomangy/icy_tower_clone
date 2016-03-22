@@ -1,6 +1,7 @@
 # icy_tower_clone fork
 Icy Tower Clone
-Forked from Dimitar Terziev and Stanimir Bogdanov work
+Forked from Dimitar Terziev and Stanimir Bogdanov work.
+
 Used to teach basic python for 15-16 years old kids.
 
 In the class we will try to accomplish these goals:
