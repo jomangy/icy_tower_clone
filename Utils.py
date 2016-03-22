@@ -10,17 +10,18 @@ def message_display(game_display, text, x, y, font_size, color, centered_x=False
     font = pygame.font.Font(None,font_size)
     TextSurf, TextRect = text_objects(text, font, color)
     if centered_x and centered_y:
-    	TextRect.center = ((SCREEN_WIDTH/2),(SCREEN_HEIGHT/2))
+        TextRect.center = ((SCREEN_WIDTH/2),(SCREEN_HEIGHT/2))
     elif centered_x:
-    	TextRect.center = ((SCREEN_WIDTH/2),y)
+        TextRect.center = ((SCREEN_WIDTH/2),y)
     elif centered_y:
-    	TextRect.center = (x,(SCREEN_HEIGHT/2))
+        TextRect.center = (x,(SCREEN_HEIGHT/2))
     else:
-    	TextRect.center = (x,y)
+        TextRect.center = (x,y)
     game_display.blit(TextSurf, TextRect)
 
 import os, sys
 from pygame.locals import RLEACCEL
+
 def load_image(name, colorkey=None):
     fullname = os.path.join('data', name)
     try:
