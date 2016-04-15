@@ -10,3 +10,4 @@ python:
 
 script: 
   - python hello_test.py
+  - python Game.py
