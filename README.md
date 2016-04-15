@@ -1,6 +1,22 @@
-# icy_tower_clone
+# icy_tower_clone fork
 Icy Tower Clone
+Forked from Dimitar Terziev and Stanimir Bogdanov work.
 
+Used to teach basic python for 15-16 years old kids.
+
+In the class we will try to accomplish these goals:
+- Read and understand code
+- Understand to code flow
+- Make simple changes (constants, text, colors)
+- modify an existing future
+- Add a completely new future
+
+Second phase goals:
+- Learn about version control
+- learn about GIT and github
+- commit, branch, pull, merge, fork
+
+Original Message:
 Developed by Dimitar Terziev and Stanimir Bogdanov
 at the HackTogether hackathon at Betahaus organized by Strypes (November 3-4, 2015)
 
