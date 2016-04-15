@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jomangy/icy_tower_clone.svg?branch=enable-travis-CI)](https://travis-ci.org/jomangy/icy_tower_clone)
+
 # icy_tower_clone fork
 Icy Tower Clone
 Forked from Dimitar Terziev and Stanimir Bogdanov work.
