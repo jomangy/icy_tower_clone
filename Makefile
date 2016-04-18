@@ -9,10 +9,11 @@ help:
 	@echo ""
 
 run:
-	python $(PACKAGE)/window.py
+	python Game.py
 
 test:
-	nosetests --cover-package=$(PACKAGE)
+	nosetests
 
 testcoverage:
-	nosetests --with-coverage --cover-package=$(PACKAGE)
+	nosetests --with-coverage 
+	
